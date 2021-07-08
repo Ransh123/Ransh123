@@ -7,6 +7,7 @@ meaning using terms and ideas from computer science in order to better understan
 medical context, which in my opinion is hard to integrate in the general medicine degree in a non frontal way, at least nowadays.
 you can find it at 
 http://www.radioresearch.app
+
 Open for work in projects involving radiology interfaces and am ready to learn machine learning if needed.
 My current skills include, but are not limited to: 
 
