@@ -12,6 +12,7 @@ Open for work in projects involving radiology interfaces and am ready to learn m
 My current skills include, but are not limited to: 
 
 General physician, with all that applies.
+
 programming skills:
   Web and others: Javascript and Typescript
   Web: HTML,CSS and ReactJS
