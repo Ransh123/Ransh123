@@ -14,7 +14,9 @@ My current skills include, but are not limited to:
 General physician, with all that applies.
 
 programming skills:
+
   Web and others: Javascript and Typescript
+  
   Web: HTML,CSS and ReactJS
   
   Always passionate to learn something new!
