@@ -11,7 +11,7 @@ http://www.radioresearch.app
 Open for work in projects involving radiology interfaces and am ready to learn machine learning if needed.
 My current skills include, but are not limited to: 
 
-General physician, with all that applies.
+General physician, with all that apply.
 
 programming skills:
 
