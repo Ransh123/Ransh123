@@ -1,4 +1,4 @@
-Hi Im Ran Shafir,
+Hi Im Dr. Ran Shafir,
 Im a Radiology resident.
 I've been experimenting with web devolpement for over 5 years now(some during medical school),
 currently Im working on enhancing a project by OHIF, a Radiology workstation written in ReactJS.
