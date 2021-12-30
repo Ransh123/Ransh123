@@ -1,5 +1,5 @@
 Hi Im Ran Shafir,
-I've finished medical school and I'm interested in Radiology.
+Im a Radiology resident.
 I've been experimenting with web devolpement for over 5 years now(some during medical school),
 currently Im working on enhancing a project by OHIF, a Radiology workstation written in ReactJS.
 I have started an educational application for learning medical radiology in a modern "computer science" approach,
@@ -11,16 +11,15 @@ http://www.radioresearch.app
 Open for work in projects involving radiology interfaces and am ready to learn machine learning if needed.
 My current skills include, but are not limited to: 
 
-General physician, with all that apply.
+Resident of Radiology, with all that apply.
 
 programming skills:
 
-  Web and others: Javascript and Typescript
-  
-  Web: HTML,CSS and ReactJS
+  Web and others: Javascript, Typescript, node, HTML, css, ReactJS, databases(non-sql) and some experementation with google cloud services(through docker and kubernetes)
   
   Always passionate to learn something new!
   
+ 
 
 
 
